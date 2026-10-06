@@ -1,0 +1,10 @@
+# Tested environment: Python 3.11; update pins after running tests and notebooks.
+numpy==2.2.6
+scipy==1.14.1
+numba==0.63.1
+matplotlib==3.8.4
+pandas==2.2.3
+jupyterlab==4.3.6
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.29.5
