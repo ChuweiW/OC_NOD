@@ -1,7 +1,6 @@
-# Optimal control with noisy observations
+# Optimal control with uncertain terminal reward value
 
-This code accompanies the paper available at [arXiv:2610.03506](https://arxiv.org/abs/2610.03506). It contains the solvers and plotting code for experiments.
-
+This code accompanies the paper [Optimality of delayed reward attainment under uncertainty](https://arxiv.org/abs/2610.03506). It contains the solvers and plotting code for experiments.
 ## Files
 
 - `solvers/linear_constant.py`: linear dynamics with constant observation noise.
